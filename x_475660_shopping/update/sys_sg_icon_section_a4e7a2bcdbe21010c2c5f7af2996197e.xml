@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>ece7a2bcdbe21010c2c5f7af29961961</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles>public</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-08 09:55:31</sys_created_on>
+        <sys_id>a4e7a2bcdbe21010c2c5f7af2996197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store</sys_name>
+        <sys_package display_value="Shopping List" source="x_475660_shopping">ead362f8dbe21010c2c5f7af29961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">ead362f8dbe21010c2c5f7af29961982</sys_scope>
+        <sys_update_name>sys_sg_icon_section_a4e7a2bcdbe21010c2c5f7af2996197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-08 09:55:31</sys_updated_on>
+        <table/>
+        <title>Store</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

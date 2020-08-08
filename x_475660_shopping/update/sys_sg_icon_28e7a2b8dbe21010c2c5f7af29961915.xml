@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f2b5","FontColor":"#ff8c3e","BackgroundColor":"#ff8c3e","Name":"icon-Handshake"}</icon>
+        <name>icon-Handshake</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-08 09:55:31</sys_created_on>
+        <sys_id>28e7a2b8dbe21010c2c5f7af29961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Handshake</sys_name>
+        <sys_package display_value="Shopping List" source="x_475660_shopping">ead362f8dbe21010c2c5f7af29961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">ead362f8dbe21010c2c5f7af29961982</sys_scope>
+        <sys_update_name>sys_sg_icon_28e7a2b8dbe21010c2c5f7af29961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-08 09:55:31</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
